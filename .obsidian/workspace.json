@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -188,11 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "186eeea8ed163df3",
+  "active": "c9a2e6ae5ef8c4c3",
   "lastOpenFiles": [
+    "欢迎.md",
     "it_tech",
     "go/c.md",
-    "欢迎.md",
     "go",
     "obsidian"
   ]

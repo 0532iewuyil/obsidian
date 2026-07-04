@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "欢迎 的大纲"
             }
           },
           {
@@ -189,6 +190,7 @@
   },
   "active": "186eeea8ed163df3",
   "lastOpenFiles": [
+    "it_tech",
     "go/c.md",
     "欢迎.md",
     "go",

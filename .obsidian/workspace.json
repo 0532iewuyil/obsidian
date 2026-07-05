@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15c56979977980e7",
+        "id": "30c75084c1470aac",
         "type": "tabs",
         "children": [
           {
-            "id": "d31129ef69cbef78",
+            "id": "5350f610a0fb690a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,11 +187,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9a2e6ae5ef8c4c3",
+  "active": "eced22dd2114cada",
   "lastOpenFiles": [
-    "未命名.base",
-    "it_tech/go/context.Cause.md",
     "it_tech/go/errorgroup.md",
+    "2026-07-05.md",
+    "it_tech/go/context.Cause.md",
+    "未命名.base",
     "it_tech/go",
     "欢迎.md",
     "it_tech",
